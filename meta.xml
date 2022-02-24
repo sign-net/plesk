@@ -2,15 +2,11 @@
 <!-- Copyright 1999-2017. Plesk International GmbH. -->
 <module>
   <id>signnet</id>
-  <name>Sign.net</name>
-  <description>Sign.net Provisioning Api</description>
-  <category>example</category>
-  <buy_url>https://www.sign.net/</buy_url>
+  <name>Sign.net(WIP)</name>
+  <description>Sign.net Reseller API functions</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor/>
   <url>https://www.sign.net/</url>
-  <help_url>https://docs.plesk.com/en-US/current/extensions-guide/</help_url>
-  <support_url>https://github.com/plesk/ext-example/issues</support_url>
-  <version>1.9</version>
-  <release>9</release>
-  <vendor>Plesk</vendor>
-  <plesk_min_version>12.5</plesk_min_version>
-</module>
+  <plesk_min_version>18.0.40</plesk_min_version>
+  </module>
